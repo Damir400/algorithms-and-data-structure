@@ -1,5 +1,7 @@
-public class Main1 {
-    public static int romanToInt(String s) {
+package solutions;
+
+public class Task13 {
+    public int romanToInt(String s) {
         int number = 0;
         String[] consts = new String[15];
         consts[0] = "M";
@@ -46,10 +48,9 @@ public class Main1 {
         }
         return number;
     }
-    public static void main(String[] args) {
+    public void test() {
 
         String s = "MCMXCIII";
         System.out.println(romanToInt(s));
     }
 }
-
