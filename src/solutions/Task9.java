@@ -22,7 +22,7 @@ public class Task9 {
         }
         return true;
     }
-    
+
     public void test() {
         System.out.println(isPalindrome(-121));
     }
