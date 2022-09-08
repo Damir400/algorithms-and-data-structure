@@ -1,7 +1,7 @@
 package solutions;
 
 public class Task14 {
-    public static String longestCommonPrefix(String[] strs) {
+    public String longestCommonPrefix(String[] strs) {
         int q = 1;
         int lengthWord = 1000;
         String res = "";

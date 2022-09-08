@@ -1,10 +1,8 @@
-import solutions.Task1;
-import solutions.Task13;
-import solutions.Task14;
-import solutions.Task9;
+import solutions.*;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 public class Tests {
 
@@ -14,6 +12,7 @@ public class Tests {
 //        new Task1().test();
 //        new Task9().test();
 //        new Task14().test();
+//        new Task20().test();
 
     }
 }

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Task9 {
-    public static boolean isPalindrome(int x) {
+    public boolean isPalindrome(int x) {
         List<Integer> result = new ArrayList<>();
         if(x<0){
             return false;
