@@ -7,6 +7,7 @@ import java.util.Stack;
 
 public class Tests {
 
+
     public static void main(String[] args) {
 //        new Task13().test();
 //        new Task1().test();
@@ -16,7 +17,8 @@ public class Tests {
 //        new Task26().test();
 //        new Task27().test();
 //        new Task35().test();
-
+//        new Task58().test();
+//        new Task66().test();
     }
 }
 
