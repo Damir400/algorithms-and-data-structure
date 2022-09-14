@@ -18,7 +18,8 @@ public class Tests {
 //        new Task35().test();
 //        new Task58().test();
 //        new Task66().test();
-        new Task67().test();
+//        new Task67().test();
+//        new Task69().test();
     }
 }
 
